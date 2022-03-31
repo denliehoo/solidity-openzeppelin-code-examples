@@ -1,0 +1,6 @@
+npm init -y
+npm truffle
+npm install @openzeppelin/contracts
+    npm install @openzeppelin/contracts will create a folder in node_modules\@openzeppelin\contracts which will have all 
+    of the contracts from openzeppelin on github (e.g. token, utils, etc... ) https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts
+    
